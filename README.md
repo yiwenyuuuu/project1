@@ -5,7 +5,7 @@ Click `Show` in the header to see your app live. Updates to your code will insta
 
 ### ← README.md
 
-That's this file, where you can tell people what your cool web page does and how you built it.
+That's this file, where you can tell people details about your web project.
 
 ### ← index.html
 
