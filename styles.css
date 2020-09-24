@@ -31,15 +31,19 @@ h4{
   margin-bottom:-15px;
 }
 
+ul{
+  margin-left:-20px;
+}
+
 .left, .right{
   display:inline-block;
   width:45%;
 }
-
-.left, .right, .container{
-    border-bottom:0;
-  
+/*
+.left, .right, .container, .education-info{
+  margin-bottom:-10px;
 }
+*/
 
 .right{
   padding-left:10%;
