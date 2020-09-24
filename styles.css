@@ -21,8 +21,18 @@ h2{
   margin-top：70px;  
 }
 
+.left, .right{
+  display:inline-block;
+  width:45%;
+}
+
+.right{
+  padding-left:10%;
+}
+
 .container {
-  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-columns: 45% 45%;
+  grid-template-rows: 1;
 }
 
 .fish{
@@ -34,9 +44,5 @@ h2{
   font-weight:600;
   margin-horizontal:0;
   padding-bottom:0;
-}
-
-.right{
-  padding-top:0;
 }
 
