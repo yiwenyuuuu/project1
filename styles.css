@@ -22,7 +22,7 @@ h2{
 }
 
 .education1,.education2{
-  display:inline-blo
+  display:inline-block;
   width:45%;
 }
 
@@ -30,6 +30,12 @@ h2{
   font-size:200px;
   margin:-100px 0 100px 600px;
 }
+
+.school-name{
+  margin-bottom:0;
+}
+
+
 
 /*
 .photo{
