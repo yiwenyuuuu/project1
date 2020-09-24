@@ -21,14 +21,13 @@ h2{
   margin-top：70px;  
 }
 
-h3{
-  magin-vertical:0;
-}
-
+.left
 
 .left, .right{
-  display:inline-block;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
   width:45%;
+  margin-top:-20px;
 }
 
 
