@@ -4,9 +4,9 @@
 
 body {
     background-color: #00FF00;
-    color: var(--color-offwhite);
+    color: yellow;
     font-family: 'Maven Pro', sans-serif;
-    font-size: 16px;
+    font-size: 20px;
     line-height: 25px;
     padding: 0 5%;
 }
