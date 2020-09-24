@@ -1,3 +1,12 @@
-p {
-    
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #00FF00;
+    color: var(--color-offwhite);
+    font-family: 'Maven Pro', sans-serif;
+    font-size: 16px;
+    line-height: 25px;
+    padding: 0 5%;
 }
