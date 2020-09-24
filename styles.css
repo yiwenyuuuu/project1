@@ -22,9 +22,13 @@ h2{
 }
 
 .education1,.education2{
-  display:inline-block;
+  display:inline;
   width:45%;
   padding-top:0;
+}
+
+.education-info{
+  font-weight:700px;
 }
 
 .fish{
@@ -33,6 +37,7 @@ h2{
 }
 
 .school-name{
+  display:inline;
   padding-bottom:0;
 }
 
