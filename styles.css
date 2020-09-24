@@ -12,6 +12,12 @@ body {
     padding: 3% 20%;
 }
 
+h2{
+  margin-top:40px;
+}
+
 .photo{
-  height:300px;
+  display:inline;
+  height:200px;
+  margin:-150px 0 0 700px;
 }
