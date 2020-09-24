@@ -40,9 +40,12 @@ h2{
   margin:-100px 0 100px 600px;
 }
 
-.school-name{
+.important{
   font-weight:600;
-  margin-horizontal:0;
-  padding-bottom:0;
 }
 
+.secondary{
+  color:#e0e0e0;
+  font-weight:300;
+  margin-top:0;
+}
