@@ -24,6 +24,7 @@ h2{
 .education1,.education2{
   display:inline-block;
   width:45%;
+  padding-top:0;
 }
 
 .fish{
@@ -32,7 +33,7 @@ h2{
 }
 
 .school-name{
-  margin-bottom:0;
+  padding-bottom:0;
 }
 
 
