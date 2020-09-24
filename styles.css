@@ -21,15 +21,9 @@ h2{
   margin-top：70px;  
 }
 
-.left
-
-.left, .right{
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  width:45%;
-  margin-top:-20px;
+.container {
+  grid-template-columns: 1fr 1fr 1fr;
 }
-
 
 .fish{
   font-size:200px;
