@@ -33,6 +33,7 @@ h4{
 
 ul{
   margin-left:-20px;
+  list-style-type: square;
 }
 
 .left, .right{
