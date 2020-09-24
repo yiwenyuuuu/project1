@@ -20,16 +20,15 @@ h1{
 h2{
   margin-top:70px;
 }
-
+}/*
 .left, .right{
-  display:inline-block;
   width:45%;
   padding-top:0;
 }
 
 .education-info{
   margin-horizontal:0;
-}
+
 
 .fish{
   font-size:200px;
