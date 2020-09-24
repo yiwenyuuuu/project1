@@ -21,14 +21,14 @@ h2{
   margin-top:70px;
 }
 
-.education1,.education2{
-  display:inline;
+.left, .right{
+  display:inline-block;
   width:45%;
   padding-top:0;
 }
 
 .education-info{
-  font-weight:700px;
+  margin-horizontal:0;
 }
 
 .fish{
@@ -37,7 +37,8 @@ h2{
 }
 
 .school-name{
-  display:inline;
+  font-weight:600;
+  margin-horizontal:0;
   padding-bottom:0;
 }
 
