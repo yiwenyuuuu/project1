@@ -21,6 +21,11 @@ h2{
   margin-top:70px;
 }
 
+.education1,.education2{
+  display:inline-blo
+  width:45%;
+}
+
 .fish{
   font-size:200px;
   margin:-100px 0 100px 600px;
