@@ -23,12 +23,9 @@ h2{
 
 
 .left, .right{
+  display:inline-block;
   width:45%;
-  padding-top:0;
 }
-
-.education-info{
-  margin-horizontal:0;
 
 
 .fish{
@@ -42,7 +39,9 @@ h2{
   padding-bottom:0;
 }
 
-
+.right{
+  margin:0;
+}
 
 /*
 .photo{
