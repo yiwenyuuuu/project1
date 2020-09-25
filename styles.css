@@ -47,12 +47,6 @@ p {
   width:300px;
 }
 
-/*
-.left, .right, .container, .education-info{
-  margin-bottom:-10px;
-}
-*/
-
 .container {
   display:grid;
   grid-column-gap: 50px;
@@ -63,10 +57,6 @@ p {
 .fish {
   font-size: 200px;
   margin: -80px 0 100px 600px;
-}
-
-.important {
-  font-weight: 600;
 }
 
 .secondary {
