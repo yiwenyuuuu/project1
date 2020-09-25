@@ -43,7 +43,6 @@ p {
 .left,
 .right {
   display: inline-block;
-  width: 45%;
 }
 
 /*
@@ -57,7 +56,8 @@ p {
 }
 
 .container {
-  grid-template-columns: 45% 45%;
+  grid-column-gap:10px;
+  grid-template-columns: 1fr 1fr;
   grid-template-rows: 1;
 }
 
