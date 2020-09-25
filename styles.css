@@ -51,19 +51,15 @@ p {
 }
 */
 
-.right {
-  padding-left: 10%;
-}
-
 .container {
-  grid-column-gap:10px;
+  grid-column-gap: 50px;
   grid-template-columns: 1fr 1fr;
   grid-template-rows: 1;
 }
 
 .fish {
   font-size: 200px;
-  margin: -100px 0 100px 600px;
+  margin: -80px 0 100px 600px;
 }
 
 .important {
