@@ -57,7 +57,7 @@ p {
   display:grid;
   grid-column-gap: 50px;
   grid-template-columns: 1fr 1fr;
-  margin-bottom:0;
+  margin-bottom:-25px;
 }
 
 .fish {
