@@ -43,6 +43,7 @@ p {
 .left,
 .right {
   display: inline-block;
+  width:45%;
 }
 
 /*
@@ -52,9 +53,9 @@ p {
 */
 
 .container {
+  display:grid;
   grid-column-gap: 50px;
   grid-template-columns: 1fr 1fr;
-  grid-template-rows: 1;
 }
 
 .fish {
