@@ -9,26 +9,26 @@ body {
   font-weight: 400;
   font-size: 20px;
   line-height: 26px;
+  margin-left: 60px;
   padding: 3% 20%;
-  margin-left:60px;
 }
 
 h1 {
   font-weight: 900;
   font-size: 80px;
-  letter-spacing:4px;
+  letter-spacing: 4px;
 }
 
 h2 {
-  letter-spacing:2px;
+  letter-spacing: 2px;
   margin-top: 70px;
 }
 
 h3 {
-  letter-spacing:1px;
+  letter-spacing: 1px;
   margin-top: 50px;
   margin-bottom: -10px;
-  text-transform:uppercase;
+  text-transform: uppercase;
 }
 
 h4 {
@@ -37,30 +37,30 @@ h4 {
 }
 
 ul {
-  margin-left: -20px;
   list-style-type: square;
+  margin-left: -20px;
 }
 
 p {
   padding-bottom: -10px;
 }
 
-.left,
-.right {
-  display: inline-block;
-  width:300px;
-}
-
 .container {
-  display:grid;
+  display: grid;
   grid-column-gap: 50px;
   grid-template-columns: 1fr 1fr;
-  margin-bottom:-25px;
+  margin-bottom: -25px;
 }
 
 .fish {
   font-size: 200px;
   margin: -80px 0 100px 530px;
+}
+
+.left,
+.right {
+  display: inline-block;
+  width: 300px;
 }
 
 .secondary {
